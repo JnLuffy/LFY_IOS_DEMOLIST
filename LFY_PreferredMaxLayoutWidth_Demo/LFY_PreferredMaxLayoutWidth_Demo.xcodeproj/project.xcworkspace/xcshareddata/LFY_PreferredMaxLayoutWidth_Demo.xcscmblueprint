@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74D0A54B4AE64441403ECCADF39F29B457694899",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74D0A54B4AE64441403ECCADF39F29B457694899" : 9223372036854775807,
+    "24E54BD0A1DBF911C26F597F5A1BD8F96F379D88" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "882683F2-66F9-4F29-ADD5-D1BD16CE9444",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74D0A54B4AE64441403ECCADF39F29B457694899" : "LFY_IOS_DEMOLIST\/",
+    "24E54BD0A1DBF911C26F597F5A1BD8F96F379D88" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LFY_PreferredMaxLayoutWidth_Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LFY_PreferredMaxLayoutWidth_Demo\/LFY_PreferredMaxLayoutWidth_Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JnLuffy\/LFY_NavigationBar1_Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "24E54BD0A1DBF911C26F597F5A1BD8F96F379D88"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JnLuffy\/LFY_IOS_DEMOLIST.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74D0A54B4AE64441403ECCADF39F29B457694899"
+    }
+  ]
+}
