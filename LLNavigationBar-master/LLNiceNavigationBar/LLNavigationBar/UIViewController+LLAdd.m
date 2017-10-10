@@ -99,7 +99,7 @@ YYSYNTH_DYNAMIC_PROPERTY_CTYPE(isHidden, setIsHidden, BOOL)
         if (!self.isHidden) {
             CGRect frame = self.navigationController.navigationBar.frame;
             CGRect scrollViewFrame = self.scrollView.frame;
-            frame.origin.y = -44; // 20 - kNavigationBarHeight
+            frame.origin.y = -24; // 20 - kNavigationBarHeight
             scrollViewFrame.origin.y -= kNavigationBarHeight;
             scrollViewFrame.size.height += kNavigationBarHeight;
             

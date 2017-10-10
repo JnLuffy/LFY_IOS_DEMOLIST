@@ -37,7 +37,7 @@
 
 - (void)viewWillDisappear:(BOOL)animated {
     [super viewWillDisappear:animated];
-    [self ll_setNavigationBarHidden:NO animated:YES];
+    [self ll_setNavigationBarHidden:NO];
 }
 
 - (void)viewDidLoad {
